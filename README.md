@@ -1,3 +1,3 @@
-# seslenium-project-with-Tsetng
+# selenium-project-with-Tsetng
 technology
 SELENIUM WEBDRIVER,TASTNG,MAVEN,JAVA
